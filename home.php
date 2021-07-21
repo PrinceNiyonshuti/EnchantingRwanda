@@ -14,7 +14,7 @@
 		</div>
 	</div>
 
-	<section class="ftco-section ftco-no-pb ftco-no-pt">
+	<!-- <section class="ftco-section ftco-no-pb ftco-no-pt">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -171,66 +171,28 @@
 					</div>
 				</div>
 			</div>
-	</section>
+	</section> -->
 
 	<section class="ftco-section services-section">
 		<div class="container">
 			<div class="row d-flex">
-				<div class="col-md-6 order-md-last heading-section pl-md-5 ftco-animate d-flex align-items-center">
+				<div class="col-md-6  heading-section pl-md-5 ftco-animate d-flex align-items-center">
 					<div class="w-100">
 						<span class="subheading">Welcome to Rwanda</span>
 						<h2 class="mb-4">It's time to start your adventure</h2>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 						A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-						<p><a href="#" class="btn btn-primary py-3 px-4">Search Destination</a></p>
+						<!-- <p><a href="#" class="btn btn-primary py-3 px-4">Search Destination</a></p> -->
 					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
-							<div class="services services-1 color-1 d-block img" style="background-image: url(assets/images/services-1.jpg);">
-								<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-paragliding"></span></div>
-								<div class="media-body">
-									<h3 class="heading mb-3">Activities</h3>
-									<p>A small river named Duden flows by their place and supplies it with the necessary</p>
-								</div>
-							</div>      
-						</div>
-						<div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
-							<div class="services services-1 color-2 d-block img" style="background-image: url(assets/images/services-2.jpg);">
-								<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-route"></span></div>
-								<div class="media-body">
-									<h3 class="heading mb-3">Travel Arrangements</h3>
-									<p>A small river named Duden flows by their place and supplies it with the necessary</p>
-								</div>
-							</div>    
-						</div>
-						<div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
-							<div class="services services-1 color-3 d-block img" style="background-image: url(assets/images/services-3.jpg);">
-								<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-tour-guide"></span></div>
-								<div class="media-body">
-									<h3 class="heading mb-3">Private Guide</h3>
-									<p>A small river named Duden flows by their place and supplies it with the necessary</p>
-								</div>
-							</div>      
-						</div>
-						<div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
-							<div class="services services-1 color-4 d-block img" style="background-image: url(assets/images/services-4.jpg);">
-								<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-map"></span></div>
-								<div class="media-body">
-									<h3 class="heading mb-3">Location Manager</h3>
-									<p>A small river named Duden flows by their place and supplies it with the necessary</p>
-								</div>
-							</div>      
-						</div>
-					</div>
+					<img src="assets/images/services-1.jpg" alt="" style="width:100% !important;height:400px">
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="ftco-section img ftco-select-destination" style="background-image: url(assets/images/bg_3.jpg);">
+	<!-- <section class="ftco-section img ftco-select-destination" style="background-image: url(assets/images/bg_3.jpg);">
 		<div class="container">
 			<div class="row justify-content-center pb-4">
 				<div class="col-md-12 heading-section text-center ftco-animate">
@@ -297,14 +259,14 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<section class="ftco-section">
 		<div class="container">
 			<div class="row justify-content-center pb-4">
 				<div class="col-md-12 heading-section text-center ftco-animate">
-					<span class="subheading">Destination</span>
-					<h2 class="mb-4">Tour Destination</h2>
+					<!-- <span class="subheading">Destination</span> -->
+					<h2 class="mb-4">Rwanda Gorilla Tours – Budget Gorilla Safari Packages</h2>
 				</div>
 			</div>
 			<div class="row">

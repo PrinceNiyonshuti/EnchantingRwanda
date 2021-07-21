@@ -15,14 +15,14 @@
 	<!-- OpenGraph Meta Tags -->
 	<meta name="og:title" content="Enchanting Rwanda"/>
 	<meta name="og:type" content="Travel and Tour Agency"/>
-	<meta name="og:url" content="http://www.imdb.com/title/tt0117500/"/>
-	<meta name="og:image" content="http://ia.media-imdb.com/rock.jpg"/>
+	<meta name="og:url" content="http://localhost/enchantingrwanda/"/>
+	<meta name="og:image" content="assets/images/icon/icon.jpeg"/>
 	<meta name="og:site_name" content="Enchanting Rwanda"/>
 	<meta name="og:description" content="Enchanting Rwanda , Travel and Tour Agency"/>
 
 	<!-- Icon and favicon -->
-	<link rel="apple-touch-icon" href="images/icon/icon.jpeg">
-    <link rel="shortcut icon" href="images/icon/icon.jpeg">
+	<link rel="apple-touch-icon" href="assets/images/icon/icon.jpeg">
+    <link rel="shortcut icon" href="assets/images/icon/icon.jpeg">
 	
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Arizonia&display=swap" rel="stylesheet">
